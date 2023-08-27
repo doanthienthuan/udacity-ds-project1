@@ -30,4 +30,5 @@ analyst.ipynb: contains code for analyst
 The final output has been published in Medium. You can find it in [here](https://medium.com/@thienthuan08061999/cultivating-retail-success-unveiling-customer-purchasing-patterns-through-market-basket-analysis-542f9a73f7a7)
 ## Licensing, Authors, Acknowledgements
 Data :- Kaggle & Sulman Sarwar Access the same [here](https://www.kaggle.com/datasets/sulmansarwar/transactions-from-a-bakery)
+
 Resources and mentor : Udacity supporters
